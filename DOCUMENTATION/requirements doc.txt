@@ -1,0 +1,8 @@
+Problem statement: How To get real time data to monitor changes from BRS on to KRA datawarehouse
+There is no reccognition of changes and thus has to be done manually which is a long process
+
+To note:
+A company may not have PIN numbers since its not a requirement
+we are supposed to host all possible outcomes associated with any variables in the dictionaries and for which all possible outcomes are output
+To be passed through API URL provided by BRS
+Sample pins will be provided to test for validity
