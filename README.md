@@ -12,5 +12,6 @@ Perform `data integration` between two systems: **BRS** and **KRA** in order to 
 3. Automate the process to enable access of real-time data of the BRS data by KRA
 
 ## Project timeline 
-21st March 2024 -demonstRation of BRS intergration to KRA database and loading of the JSON data.
-29th March 2024 - Have a conlusive approach of loading embedded data within the Company dictionary to the Oracle database.
+1. Demonstration of BRS intergration to KRA database and loading of the JSON data - March 21st, 2024.
+2. Have a conlusive approach of loading embedded data within the Company dictionary to the Oracle database - March 29th, 2024
+
